@@ -117,3 +117,11 @@ footer p{
     margin: 0;
     flex: 2 1 300px;
 }
+
+.ttt:hover{
+    text-decoration: underline;
+}
+
+.ttt {
+    transition: 1s ease;
+}
